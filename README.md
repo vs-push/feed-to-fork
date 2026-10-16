@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Feed to Fork
 
 **From your feed to your table.** Check a viral food post, make it work where you live, find what's missing in nearby shops, then cook hands-free with a coach that watches the pan through your phone camera and talks you through it.
@@ -96,3 +97,7 @@ A single photo has no built-in sense of scale, so the estimate is only as good a
 - Store search falls back to three sample stores if OpenStreetMap can't be reached.
 - Shopper reports are kept in `server/data/reports.json` (last 30 days). Use a real database in production.
 - Everything is in English for now.
+=======
+# feed-to-fork
+A hackathon idea.
+>>>>>>> ebc0bde67705349e9c406ab5532125db18e14566
