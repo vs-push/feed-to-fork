@@ -1,0 +1,39 @@
+{
+  "postDescription": "Viral TikTok: a block of feta in the middle of a dish of cherry tomatoes, olive oil and garlic. Into 'a hot oven', then stirred into pasta.",
+  "verify": {
+    "verdict": "real_recipe",
+    "confidence": 86,
+    "headline": "Behind the viral bake.",
+    "reasoning": "The method is plausible. Hot tomatoes release juice; softened feta makes a sauce.",
+    "skips": [
+      "Use 200°C / 180°C fan, not just “a hot oven”.",
+      "Cook pasta separately; save a mug of its water.",
+      "Taste before salting — feta is already salty."
+    ],
+    "sourcesToCheck": [
+      { "name": "BBC Good Food", "why": "Baked feta pasta · method & oven guidance", "url": "https://www.bbcgoodfood.com" },
+      { "name": "Serious Eats", "why": "Pasta water · how a sauce comes together", "url": "https://www.seriouseats.com" }
+    ],
+    "recipe": {
+      "title": "Baked feta pasta",
+      "servings": 2,
+      "totalMinutes": 35,
+      "diet": "Vegetarian",
+      "ingredients": [
+        { "name": "Cherry tomatoes", "quantity": "400 g", "category": "produce" },
+        { "name": "Penne pasta", "quantity": "180 g", "category": "pantry" },
+        { "name": "Garlic", "quantity": "2 cloves", "category": "produce" },
+        { "name": "Olive oil", "quantity": "2 tbsp", "category": "pantry" },
+        { "name": "Black pepper", "quantity": "A pinch", "category": "spice" },
+        { "name": "Feta", "quantity": "200 g", "category": "dairy" },
+        { "name": "Basil leaves", "quantity": "1 small bunch", "category": "herb" }
+      ],
+      "steps": [
+        { "title": "Prep", "instruction": "Heat the oven to 200°C / 180°C fan. Put the tomatoes and peeled garlic in a baking dish, set the feta block in the middle and pour over the oil. Add pepper.", "timerMinutes": 0, "lookFor": "Feta in the centre, tomatoes in one layer around it, everything glossy with oil." },
+        { "title": "Bake", "instruction": "Bake feta, tomatoes, garlic and oil for 25 min at 200°C / 180°C fan.", "timerMinutes": 25, "lookFor": "Burst tomatoes and a soft, lightly golden feta." },
+        { "title": "Boil pasta", "instruction": "Meanwhile cook the penne in well-salted boiling water for 1 minute less than the packet says. Save a mug of pasta water, then drain.", "timerMinutes": 10, "lookFor": "Pasta bends but still has a slight bite in the centre." },
+        { "title": "Combine", "instruction": "Mash the feta and tomatoes into a sauce, add the pasta and a splash of pasta water, and stir until glossy. Tear over the basil and taste before adding salt.", "timerMinutes": 0, "lookFor": "Pasta evenly coated in a creamy pink-orange sauce, no dry patches." }
+      ]
+    }
+  }
+}

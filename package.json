@@ -1,0 +1,17 @@
+{
+  "name": "feed-to-fork",
+  "version": "0.1.0",
+  "description": "From your feed to your table: verify a food post, adapt it to where you live, find the ingredients nearby, and cook with a live voice + camera coach.",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.133.0",
+    "express": "^5.3.0"
+  }
+}

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Baked feta pasta in an oval dish">
+  <rect width="400" height="240" fill="#D9D3C4"/>
+  <rect x="0" y="0" width="70" height="240" fill="#EDE9DF"/>
+  <ellipse cx="205" cy="125" rx="165" ry="100" fill="#E9E1D2" stroke="#BFB39E" stroke-width="4"/>
+  <ellipse cx="205" cy="125" rx="140" ry="82" fill="#E4B867"/>
+  <g fill="#F1CF83">
+    <rect x="110" y="85" width="40" height="10" rx="5" transform="rotate(-25 130 90)"/><rect x="170" y="70" width="40" height="10" rx="5" transform="rotate(20 190 75)"/>
+    <rect x="240" y="80" width="40" height="10" rx="5" transform="rotate(-15 260 85)"/><rect x="120" y="140" width="40" height="10" rx="5" transform="rotate(30 140 145)"/>
+    <rect x="200" y="150" width="40" height="10" rx="5" transform="rotate(-35 220 155)"/><rect x="265" y="135" width="40" height="10" rx="5" transform="rotate(10 285 140)"/>
+    <rect x="160" y="110" width="40" height="10" rx="5" transform="rotate(-5 180 115)"/><rect x="230" y="115" width="36" height="10" rx="5" transform="rotate(40 248 120)"/>
+  </g>
+  <g fill="#C8361F">
+    <circle cx="105" cy="115" r="11"/><circle cx="150" cy="70" r="11"/><circle cx="205" cy="60" r="10"/><circle cx="270" cy="65" r="11"/><circle cx="315" cy="105" r="11"/>
+    <circle cx="300" cy="160" r="11"/><circle cx="240" cy="185" r="11"/><circle cx="170" cy="180" r="11"/><circle cx="125" cy="160" r="10"/><circle cx="200" cy="125" r="10"/>
+    <circle cx="255" cy="110" r="9"/><circle cx="160" cy="135" r="9"/>
+  </g>
+  <g fill="#E46A4C"><circle cx="102" cy="111" r="3"/><circle cx="147" cy="66" r="3"/><circle cx="267" cy="61" r="3"/><circle cx="312" cy="101" r="3"/><circle cx="237" cy="181" r="3"/></g>
+  <g fill="#3E7A3A"><path d="M140 100l8-6 3 9Z"/><path d="M220 95l9-4 1 9Z"/><path d="M280 125l7-7 4 8Z"/><path d="M185 160l9-3 0 9Z"/><path d="M240 150l8-6 3 9Z"/><path d="M130 130l8-5 2 9Z"/><path d="M300 90l7-6 3 8Z"/></g>
+</svg>
